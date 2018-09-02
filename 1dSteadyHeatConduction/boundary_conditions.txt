@@ -1,0 +1,3 @@
+Boundary conditions:
+ - left wall heat flux 100 W/mK
+ - right wall -10 Celsius degree
