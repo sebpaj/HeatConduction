@@ -1,0 +1,18 @@
+Case 2dSteady:
+
+  - top wall 0 Celsius degree
+
+  - top bottom 0 Celsius degree
+
+  - left wall 20 Celsius degree
+
+  - right wall 40 Celsius degree
+
+  - left top corner 0 Celsius degree
+
+  - right top corner 40 Celsius degree
+
+  - left bottom corner 5 Celsius degree
+
+  - right top corner 40 Celsius degree
+
